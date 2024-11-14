@@ -1,0 +1,4 @@
+dependencies:
+  - pip
+  - pip:
+    - ibm_metrics_plugin[generative-ai-quality]~=3.0.9
